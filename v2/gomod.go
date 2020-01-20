@@ -1,5 +1,5 @@
 package gomod
 
 func Version() string {
-	return "v1.1.0"
+	return "v2.0.0"
 }
